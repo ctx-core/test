@@ -2,7 +2,7 @@ import { throw__error } from '@ctx-core/error'
 import { log } from '@ctx-core/logger'
 import equal from 'deep-equal'
 const tab = '							 '
-const logPrefix = '@ctx-core/test/asserts.js'
+const logPrefix = '@ctx-core/test/asserts'
 type Opts__assert__equal = {
 	header__error_message?:string
 	_error?:(any)=>string
