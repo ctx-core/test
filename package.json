@@ -31,7 +31,7 @@
 	"devDependencies": {
 		"@ctx-core/error": "^5.1.69",
 		"@ctx-core/logger": "^3.1.13",
-		"deep-equal": "^2.0.1",
+		"deep-equal": "^2.0.2",
 		"typescript": "^3.8.3"
 	},
 	"gitHead": "ecded533c5d9946e2d9dafa39dbc95ce3e38ad93"
