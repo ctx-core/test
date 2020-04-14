@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/test",
-	"version": "3.1.31",
+	"version": "3.1.32",
 	"description": "ctx-core test",
 	"main": "asserts.js",
 	"module": "asserts.js",
@@ -29,7 +29,7 @@
 		"access": "public"
 	},
 	"devDependencies": {
-		"@ctx-core/error": "^5.1.73",
+		"@ctx-core/error": "^5.1.74",
 		"@ctx-core/logger": "^3.1.14",
 		"deep-equal": "^2.0.2",
 		"typescript": "^3.8.3"
