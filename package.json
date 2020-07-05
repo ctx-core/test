@@ -32,7 +32,7 @@
 		"@ctx-core/error": "^5.1.81",
 		"@ctx-core/logger": "^3.1.18",
 		"deep-equal": "^2.0.3",
-		"typescript": "^3.9.5"
+		"typescript": "^3.9.6"
 	},
 	"gitHead": "9f1cd977988f64c585b1db8fe3fc98276950bb18"
 }
