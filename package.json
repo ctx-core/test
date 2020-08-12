@@ -30,7 +30,6 @@
 	},
 	"devDependencies": {
 		"@ctx-core/error": "^5.1.102",
-		"@ctx-core/logger": "^3.1.23",
 		"deep-equal": "^2.0.3",
 		"typescript": "^3.9.7"
 	},

@@ -1,8 +1,6 @@
 import { throw__error } from '@ctx-core/error'
-import { log } from '@ctx-core/logger'
 import equal from 'deep-equal'
 const tab = '							 '
-const logPrefix = '@ctx-core/test/asserts'
 type Opts__assert__equal = {
 	header__error_message?:string
 	_error?:(any)=>string
@@ -20,7 +18,6 @@ export function assert__equal(opts:Opts__assert__equal) {
 		|| (ctx=>
 			`\n${header__error_message__}${tab}${JSON.stringify(ctx.actual)} should == ${JSON.stringify(ctx.expected)}`)
 	if (!equal(opts.actual, opts.expected)) {
-		log(`${logPrefix}|assertEqual|error`)
 		throw__error({ error_message: _error_message(opts) })
 	}
 }
@@ -35,12 +32,10 @@ export function assert__match(opts) {
 			`${ctx.actual} should match ${ctx.match}`)
 	if (typeof match === 'string') {
 		if (actual.indexOf(match) == -1) {
-			log(`${logPrefix}|assert__match|string|error`)
 			throw__error({ error_message: _error_message(opts) })
 		}
 	} else if (typeof match === 'object') {
 		if (!match.test(actual)) {
-			log(`${logPrefix}|assert__match|object|error`)
 			throw__error({ error_message: _error_message(opts) })
 		}
 	}
