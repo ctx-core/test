@@ -2,6 +2,20 @@
 	"name": "@ctx-core/test",
 	"version": "3.1.69",
 	"description": "ctx-core test",
+	"keywords": [
+		"ctx-core",
+		"test"
+	],
+	"homepage": "https://github.com/ctx-core/test#readme",
+	"bugs": {
+		"url": "https://github.com/ctx-core/test/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ctx-core/test/issues"
+	},
+	"license": "Apache-2.0",
+	"author": "Brian Takita",
 	"main": "./index.js",
 	"module": "./index.js",
 	"types": "./index.ts",
@@ -9,30 +23,16 @@
 		"build": "npm run clean && npm run compile",
 		"clean": "rm -f tsconfig.tsbuildinfo",
 		"compile": "tsc -b",
-		"prepublishOnly": "npm run compile",
-		"exec": "$@"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/ctx-core/test/issues"
-	},
-	"keywords": [
-		"ctx-core",
-		"test"
-	],
-	"author": "Brian Takita",
-	"license": "Apache-2.0",
-	"bugs": {
-		"url": "https://github.com/ctx-core/test/issues"
-	},
-	"homepage": "https://github.com/ctx-core/test#readme",
-	"publishConfig": {
-		"access": "public"
+		"exec": "$@",
+		"prepublishOnly": "npm run compile"
 	},
 	"devDependencies": {
-		"@ctx-core/error": "^5.1.109",
+		"@ctx-core/error": "workspace:*",
 		"deep-equal": "^2.0.3",
 		"typescript": "^4.0.2"
+	},
+	"publishConfig": {
+		"access": "public"
 	},
 	"gitHead": "c636ee42324677144cae9aaa355c936a07097cc5"
 }
