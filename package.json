@@ -1,6 +1,6 @@
 {
   "name": "@ctx-core/test",
-  "version": "3.1.69",
+  "version": "3.1.70",
   "description": "ctx-core test",
   "keywords": [
     "ctx-core",
@@ -22,7 +22,7 @@
   "scripts": {
     "build": "npm run clean && npm run compile",
     "clean": "rm -f tsconfig.tsbuildinfo",
-    "compile": "tsc -b",
+    "compile": "./node_modules/.bin/tsc -b",
     "exec": "$@",
     "prepublishOnly": "npm run compile"
   },
