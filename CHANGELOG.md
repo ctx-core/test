@@ -1,5 +1,11 @@
 # @ctx-core/test
 
+## 4.0.1
+
+### Patch Changes
+
+- fix: install issues: using explicit workspace: versioning
+
 ## 4.0.0
 
 ### Major Changes
