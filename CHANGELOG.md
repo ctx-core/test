@@ -1,5 +1,11 @@
 # @ctx-core/test
 
+## 4.0.2
+
+### Patch Changes
+
+- version bump
+
 ## 4.0.1
 
 ### Patch Changes
