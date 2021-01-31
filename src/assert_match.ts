@@ -15,4 +15,4 @@ export function assert_match(opts) {
 		}
 	}
 }
-export const assert__match = assert_match
+export { assert_match as assert__match }
