@@ -27,7 +27,7 @@
 		"prepublishOnly": "npm run compile"
 	},
 	"devDependencies": {
-		"@ctx-core/error": "workspace:^8.0.3",
+		"@ctx-core/error": "workspace:^8.0.4",
 		"deep-equal": "^2.0.5",
 		"typescript": "^4.1.3"
 	},
