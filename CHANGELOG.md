@@ -1,5 +1,11 @@
 # @ctx-core/test
 
+## 5.0.11
+
+### Patch Changes
+
+- @ctx-core/object: 17.5.6
+
 ## 5.0.10
 
 ### Patch Changes
