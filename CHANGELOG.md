@@ -1,5 +1,11 @@
 # @ctx-core/test
 
+## 5.1.0
+
+### Minor Changes
+
+- "noImplicitAny": true
+
 ## 5.0.12
 
 ### Patch Changes
