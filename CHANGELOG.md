@@ -1,5 +1,11 @@
 # @ctx-core/test
 
+## 5.1.3
+
+### Patch Changes
+
+- update dependencies
+
 ## 5.1.2
 
 ### Patch Changes
