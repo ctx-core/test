@@ -1,5 +1,11 @@
 # @ctx-core/test
 
+## 5.2.0
+
+### Minor Changes
+
+- dist,types directory: addressing typescript build issues
+
 ## 5.1.4
 
 ### Patch Changes
