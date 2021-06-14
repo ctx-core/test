@@ -1,5 +1,11 @@
 # @ctx-core/test
 
+## 6.0.0
+
+### Major Changes
+
+- move from dist to src directory
+
 ## 5.3.4
 
 ### Patch Changes
