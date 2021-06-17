@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/test",
-	"version": "6.0.0",
+	"version": "6.0.1",
 	"description": "ctx-core test",
 	"keywords": [
 		"ctx-core",
@@ -27,10 +27,10 @@
 		"prepublishOnly": "npm run compile"
 	},
 	"devDependencies": {
-		"@ctx-core/error": "workspace:^10.0.0",
+		"@ctx-core/error": "workspace:^10.0.1",
 		"@types/deep-equal": "^1.0.1",
 		"deep-equal": "^2.0.5",
-		"typescript": "^4.3.2"
+		"typescript": "^4.3.3"
 	},
 	"publishConfig": {
 		"access": "public",
