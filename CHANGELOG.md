@@ -1,5 +1,11 @@
 # @ctx-core/test
 
+## 6.0.9
+
+### Patch Changes
+
+- tsconfig.json: "lib": ["dom", "ESNext"]
+
 ## 6.0.8
 
 ### Patch Changes
