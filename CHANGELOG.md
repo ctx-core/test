@@ -1,5 +1,11 @@
 # @ctx-core/test
 
+## 6.0.12
+
+### Patch Changes
+
+- dist directory
+
 ## 6.0.11
 
 ### Patch Changes
