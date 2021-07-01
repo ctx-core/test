@@ -1,5 +1,11 @@
 # @ctx-core/test
 
+## 6.0.13
+
+### Patch Changes
+
+- typescript: ^4.3.4 -> ^4.3.5
+
 ## 6.0.12
 
 ### Patch Changes
