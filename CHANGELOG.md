@@ -1,5 +1,11 @@
 # @ctx-core/test
 
+## 7.0.0
+
+### Major Changes
+
+- "type": "module": module npm type
+
 ## 6.0.13
 
 ### Patch Changes
