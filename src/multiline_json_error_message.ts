@@ -1,4 +1,4 @@
-import { tab } from './tab'
+import { tab } from './tab.js'
 export function multiline_json_error_message(params:multiline_json_error_message_I) {
 	return `${JSON.stringify(params.actual)}\n${tab}should equal\n${tab}${JSON.stringify(params.expected)}`
 }
