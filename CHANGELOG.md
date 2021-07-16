@@ -1,5 +1,11 @@
 # @ctx-core/test
 
+## 7.0.5
+
+### Patch Changes
+
+- fix: index.cjs: module.exports = require('./index.js')
+
 ## 7.0.4
 
 ### Patch Changes
