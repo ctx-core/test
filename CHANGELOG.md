@@ -1,5 +1,17 @@
 # @ctx-core/test
 
+## 7.0.9
+
+### Patch Changes
+
+- fix: sourceMappingURL: "mapRoot": ""
+
+## 7.0.8
+
+### Patch Changes
+
+- tsconfig.json: "target": "es2019"
+
 ## 7.0.7
 
 ### Patch Changes
