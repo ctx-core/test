@@ -1,5 +1,11 @@
 # @ctx-core/test
 
+## 7.0.7
+
+### Patch Changes
+
+- fix: cjs: load as a Promise
+
 ## 7.0.6
 
 ### Patch Changes
