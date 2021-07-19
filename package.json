@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/test",
-	"version": "7.0.9",
+	"version": "7.0.10",
 	"description": "ctx-core test",
 	"keywords": [
 		"ctx-core",
@@ -22,7 +22,8 @@
 	"types": "./dist/index.d.ts",
 	"exports": {
 		"require": "./dist/index.cjs",
-		"import": "./dist/index.js"
+		"import": "./dist/index.js",
+		"package.json": "./package.json"
 	},
 	"scripts": {
 		"build": "npm run clean && npm run copy-mjs && npm run compile",
@@ -33,7 +34,7 @@
 		"prepublishOnly": "npm run build"
 	},
 	"devDependencies": {
-		"@ctx-core/error": "workspace:^11.0.11",
+		"@ctx-core/error": "workspace:^11.0.12",
 		"@types/deep-equal": "^1.0.1",
 		"deep-equal": "^2.0.5",
 		"typescript": "^4.3.5"
