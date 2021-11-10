@@ -1,5 +1,11 @@
 # @ctx-core/test
 
+## 7.0.15
+
+### Patch Changes
+
+- compile using swc
+
 ## 7.0.14
 
 ### Patch Changes
