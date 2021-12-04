@@ -1,5 +1,11 @@
 # @ctx-core/test
 
+## 7.0.21
+
+### Patch Changes
+
+- @swc/core: ^1.2.116 -> ^1.2.117
+
 ## 7.0.20
 
 ### Patch Changes
