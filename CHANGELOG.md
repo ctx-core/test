@@ -1,5 +1,11 @@
 # @ctx-core/test
 
+## 7.0.23
+
+### Patch Changes
+
+- package.json: - "main": explicitly not support cjs
+
 ## 7.0.22
 
 ### Patch Changes
