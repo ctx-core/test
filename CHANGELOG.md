@@ -1,5 +1,11 @@
 # @ctx-core/test
 
+## 7.0.24
+
+### Patch Changes
+
+- package.json: - module
+
 ## 7.0.23
 
 ### Patch Changes
