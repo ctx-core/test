@@ -1,5 +1,11 @@
 # @ctx-core/test
 
+## 7.0.28
+
+### Patch Changes
+
+- \*.d.ts export
+
 ## 7.0.27
 
 ### Patch Changes
