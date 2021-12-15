@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/test",
-	"version": "7.0.24",
+	"version": "7.0.25",
 	"description": "ctx-core test",
 	"keywords": [
 		"ctx-core",
@@ -32,7 +32,7 @@
 		"prepublishOnly": "npm run clean && npm run build"
 	},
 	"devDependencies": {
-		"@ctx-core/error": "workspace:^11.1.9",
+		"@ctx-core/error": "workspace:^11.1.10",
 		"@swc/cli": "^0.1.55",
 		"@swc/core": "^1.2.120",
 		"@types/deep-equal": "^1.0.1",
@@ -43,5 +43,6 @@
 	"publishConfig": {
 		"access": "public",
 		"cache": "~/.npm"
-	}
+	},
+	"svelte": "./dist/index.js"
 }
