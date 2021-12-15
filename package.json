@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/test",
-	"version": "7.0.25",
+	"version": "7.0.26",
 	"description": "ctx-core test",
 	"keywords": [
 		"ctx-core",
@@ -12,15 +12,15 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/ctx-core/test/issues"
+		"url": "https://github.com/ctx-core/test.git"
 	},
 	"license": "Apache-2.0",
 	"author": "Brian Takita",
 	"type": "module",
 	"exports": {
 		".": {
-			"types": "./src/index.ts",
-			"import": "./dist/index.js"
+			"import": "./dist/index.js",
+			"types": "./src/index.ts"
 		},
 		"./package.json": "./package.json"
 	},
@@ -32,7 +32,7 @@
 		"prepublishOnly": "npm run clean && npm run build"
 	},
 	"devDependencies": {
-		"@ctx-core/error": "workspace:^11.1.10",
+		"@ctx-core/error": "workspace:^11.1.11",
 		"@swc/cli": "^0.1.55",
 		"@swc/core": "^1.2.120",
 		"@types/deep-equal": "^1.0.1",
