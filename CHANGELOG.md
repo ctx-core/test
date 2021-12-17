@@ -1,5 +1,11 @@
 # @ctx-core/test
 
+## 7.0.29
+
+### Patch Changes
+
+- fix: build
+
 ## 7.0.28
 
 ### Patch Changes
