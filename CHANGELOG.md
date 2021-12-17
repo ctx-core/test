@@ -1,5 +1,11 @@
 # @ctx-core/test
 
+## 7.0.30
+
+### Patch Changes
+
+- package.json: "types": "./src/index.ts": better editing experience
+
 ## 7.0.29
 
 ### Patch Changes
