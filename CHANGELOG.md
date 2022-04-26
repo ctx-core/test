@@ -1,5 +1,11 @@
 # @ctx-core/test
 
+## 7.0.42
+
+### Patch Changes
+
+- @ctx-core/function: 20.7.1
+
 ## 7.0.41
 
 ### Patch Changes
