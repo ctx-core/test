@@ -35,7 +35,7 @@
 	"devDependencies": {
 		"@ctx-core/error": "^11.4.7",
 		"@swc/cli": "^0.1.57",
-		"@swc/core": "^1.2.187",
+		"@swc/core": "^1.2.189",
 		"@types/deep-equal": "^1.0.1",
 		"deep-equal": "^2.0.5",
 		"rimraf": "^3.0.2",
