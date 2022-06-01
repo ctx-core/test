@@ -1,5 +1,11 @@
 # @ctx-core/test
 
+## 7.0.45
+
+### Patch Changes
+
+- update dependencies
+
 ## 7.0.44
 
 ### Patch Changes
