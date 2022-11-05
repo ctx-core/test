@@ -1,5 +1,11 @@
 # @ctx-core/test
 
+## 7.0.46
+
+### Patch Changes
+
+- deep-equal: ^2.0.5 -> ^2.1.0
+
 ## 7.0.45
 
 ### Patch Changes
