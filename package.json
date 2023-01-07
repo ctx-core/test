@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/test",
-	"version": "7.0.49",
+	"version": "7.0.50",
 	"description": "ctx-core test",
 	"keywords": [
 		"ctx-core",
@@ -33,7 +33,7 @@
 		"prepublishOnly": "npm run clean && npm run build"
 	},
 	"devDependencies": {
-		"@ctx-core/error": "^11.5.3",
+		"@ctx-core/error": "^11.5.4",
 		"@swc/cli": "^0.1.59",
 		"@swc/core": "^1.3.25",
 		"@types/deep-equal": "^1.0.1",
