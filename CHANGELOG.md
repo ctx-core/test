@@ -1,5 +1,11 @@
 # @ctx-core/test
 
+## 7.0.59
+
+### Patch Changes
+
+- rimraf: ^4.0.1 -> ^4.0.4
+
 ## 7.0.58
 
 ### Patch Changes
