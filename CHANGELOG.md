@@ -1,5 +1,11 @@
 # @ctx-core/test
 
+## 7.0.60
+
+### Patch Changes
+
+- @ctx-core/error: ^11.5.11 -> ^11.5.12
+
 ## 7.0.59
 
 ### Patch Changes
