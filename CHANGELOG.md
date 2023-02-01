@@ -1,5 +1,11 @@
 # @ctx-core/test
 
+## 7.0.64
+
+### Patch Changes
+
+- @swc/core: ^1.3.31 -> ^1.3.32
+
 ## 7.0.63
 
 ### Patch Changes
