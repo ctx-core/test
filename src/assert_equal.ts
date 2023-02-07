@@ -1,5 +1,5 @@
 import equal from 'deep-equal'
-import { throw_error } from '@ctx-core/error'
+import { error__throw } from '@ctx-core/error'
 const tab = '	'
 export function assert_equal(opts:Opts__assert__equal) {
 	const { error_message_header } = opts
@@ -12,7 +12,7 @@ export function assert_equal(opts:Opts__assert__equal) {
 		|| (ctx=>
 			`\n${error_message_header__}${tab}${JSON.stringify(ctx.actual)} should == ${JSON.stringify(ctx.expected)}`)
 	if (!equal(opts.actual, opts.expected)) {
-		throw_error(_error_message(opts))
+		error__throw(_error_message(opts))
 	}
 }
 export interface Opts__assert__equal {
