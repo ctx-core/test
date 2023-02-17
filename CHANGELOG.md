@@ -1,5 +1,19 @@
 # @ctx-core/test
 
+## 8.0.0
+
+### Major Changes
+
+- assert*match\_\_opts_T: error*=>error*message*
+- assert*equal\_\_opts_T: \_error=>error_message*
+
+### Minor Changes
+
+- - multiline*json\_\_error_message*: aliased by multiline*json_error_message*
+- - multiline_json_error_message\_\_params_T: aliased by multiline_json_error_message_I
+- extract _.js & _.d.ts into directories
+- assert_equal**opts_T: aliased by Opts**assert\_\_equal
+
 ## 7.0.67
 
 ### Patch Changes
