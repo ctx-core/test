@@ -1,5 +1,11 @@
 # @ctx-core/test
 
+## 8.0.2
+
+### Patch Changes
+
+- @ctx-core/error: workspace:^12.0.0 -> 12.1.2
+
 ## 8.0.1
 
 ### Patch Changes
