@@ -1,4 +1,4 @@
-import { error__throw } from '@ctx-core/error'
+import { error_o__throw } from '@ctx-core/error'
 import equal from 'deep-equal'
 const tab = '	'
 /**
@@ -11,7 +11,7 @@ export function assert_equal(opts) {
 		? `${tab}${error_message_header}\n`
 		: ''
 	if (!equal(opts.actual, opts.expected)) {
-		error__throw(error_message_())
+		error_o__throw(error_message_())
 	}
 	function error_message_() {
 		return (
