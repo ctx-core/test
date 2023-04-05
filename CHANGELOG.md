@@ -1,5 +1,12 @@
 # @ctx-core/test
 
+## 8.0.10
+
+### Patch Changes
+
+- Updated dependencies
+  - @ctx-core/error@12.3.6
+
 ## 8.0.9
 
 ### Patch Changes
