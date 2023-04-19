@@ -1,5 +1,13 @@
 # @ctx-core/test
 
+## 8.0.30
+
+### Patch Changes
+
+- @ctx-core/monorepo: ^20.3.3 -> ^20.3.4
+- Updated dependencies
+  - @ctx-core/error@12.3.26
+
 ## 8.0.29
 
 ### Patch Changes
