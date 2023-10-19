@@ -1,5 +1,13 @@
 # @ctx-core/test
 
+## 8.0.51
+
+### Patch Changes
+
+- tsx: ^3.13.0 -> ^3.14.0
+- Updated dependencies
+  - @ctx-core/error@12.3.45
+
 ## 8.0.50
 
 ### Patch Changes
