@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/test",
-	"version": "8.0.53",
+	"version": "8.0.54",
 	"description": "ctx-core test",
 	"keywords": [
 		"ctx-core",
@@ -34,7 +34,7 @@
 	},
 	"dependencies": {
 		"@ctx-core/error": "12.3.47",
-		"deep-equal": "^2.2.2"
+		"deep-equal": "^2.2.3"
 	},
 	"devDependencies": {
 		"c8": "^8.0.1",

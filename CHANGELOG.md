@@ -1,5 +1,11 @@
 # @ctx-core/test
 
+## 8.0.54
+
+### Patch Changes
+
+- deep-equal: ^2.2.2 -> ^2.2.3
+
 ## 8.0.53
 
 ### Patch Changes
