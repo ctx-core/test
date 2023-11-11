@@ -8,8 +8,8 @@ export function assert_equal(opts) {
 	const { error_message_header } = opts
 	const error_message_header__ =
 		error_message_header
-		? `${tab}${error_message_header}\n`
-		: ''
+			? `${tab}${error_message_header}\n`
+			: ''
 	if (!equal(opts.actual, opts.expected)) {
 		error_o__throw(error_message_())
 	}

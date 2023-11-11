@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/test",
-	"version": "8.0.56",
+	"version": "8.1.0",
 	"description": "ctx-core test",
 	"keywords": [
 		"ctx-core",
@@ -17,10 +17,16 @@
 	"license": "Apache-2.0",
 	"author": "Brian Takita",
 	"type": "module",
-	"types": "./src/index.d.ts",
-	"svelte": "./src/index.js",
+	"files": [
+		"*.d.ts",
+		"./assert_equal",
+		"./assert_match",
+		"./multiline_json__error_message_",
+		"./tab"
+	],
+	"types": "./index.d.ts",
 	"exports": {
-		".": "./src/index.js",
+		".": "./index.js",
 		"./package.json": "./package.json"
 	},
 	"scripts": {
@@ -33,7 +39,7 @@
 		"test-unit-coverage": "c8 pnpm test-unit"
 	},
 	"dependencies": {
-		"@ctx-core/error": "12.3.49",
+		"@ctx-core/error": "12.4.0",
 		"deep-equal": "^2.2.3"
 	},
 	"devDependencies": {
