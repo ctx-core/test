@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/test",
-	"version": "8.1.0",
+	"version": "8.1.1",
 	"description": "ctx-core test",
 	"keywords": [
 		"ctx-core",
@@ -39,13 +39,13 @@
 		"test-unit-coverage": "c8 pnpm test-unit"
 	},
 	"dependencies": {
-		"@ctx-core/error": "12.4.0",
+		"@ctx-core/error": "12.4.1",
 		"deep-equal": "^2.2.3"
 	},
 	"devDependencies": {
 		"c8": "^8.0.1",
 		"check-dts": "^0.7.2",
-		"tsx": "^4.0.0",
+		"tsx": "^4.1.2",
 		"typescript": "next",
 		"uvu": "^0.5.6"
 	},
