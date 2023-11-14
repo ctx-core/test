@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/test",
-	"version": "8.1.2",
+	"version": "8.1.3",
 	"description": "ctx-core test",
 	"keywords": [
 		"ctx-core",
@@ -19,6 +19,7 @@
 	"type": "module",
 	"files": [
 		"*.d.ts",
+		"*.js",
 		"*.json",
 		"./assert_equal",
 		"./assert_match",
@@ -40,7 +41,7 @@
 		"test-unit-coverage": "c8 pnpm test-unit"
 	},
 	"dependencies": {
-		"@ctx-core/error": "12.4.2",
+		"@ctx-core/error": "12.4.3",
 		"deep-equal": "^2.2.3"
 	},
 	"devDependencies": {

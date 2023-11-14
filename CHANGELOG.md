@@ -1,5 +1,13 @@
 # @ctx-core/test
 
+## 8.1.3
+
+### Patch Changes
+
+- package.json: files: + \*.js
+- Updated dependencies
+  - @ctx-core/error@12.4.3
+
 ## 8.1.2
 
 ### Patch Changes
