@@ -1,5 +1,13 @@
 # @ctx-core/test
 
+## 8.1.2
+
+### Patch Changes
+
+- fix: missing tsconfig.json
+- Updated dependencies
+  - @ctx-core/error@12.4.2
+
 ## 8.1.1
 
 ### Patch Changes
