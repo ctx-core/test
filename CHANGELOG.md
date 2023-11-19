@@ -1,5 +1,11 @@
 # @ctx-core/test
 
+## 8.1.16
+
+### Patch Changes
+
+- @ctx-core/error@12.4.16
+
 ## 8.1.15
 
 ### Patch Changes
