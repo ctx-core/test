@@ -1,5 +1,14 @@
 # @ctx-core/test
 
+## 8.1.21
+
+### Patch Changes
+
+- tsx: ^4.1.4 -> ^4.2.0
+- Updated dependencies
+- Updated dependencies
+  - @ctx-core/error@12.4.21
+
 ## 8.1.20
 
 ### Patch Changes
