@@ -1,5 +1,12 @@
 # @ctx-core/test
 
+## 8.1.44
+
+### Patch Changes
+
+- Updated dependencies
+  - @ctx-core/error@12.4.44
+
 ## 8.1.43
 
 ### Patch Changes
