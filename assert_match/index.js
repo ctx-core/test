@@ -1,6 +1,7 @@
-import { throw__error } from '@ctx-core/error'
+/// <reference types="./index.d.ts" />
+import { throw__error } from 'ctx-core/error'
 /**
- * @param opts{import('./index.d.ts').assert_match__opts_T}
+ * @param {assert_match__opts_T}opts
  */
 export function assert_match(opts) {
 	const { match, actual } = opts

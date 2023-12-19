@@ -1,5 +1,13 @@
 # @ctx-core/test
 
+## 8.1.55
+
+### Patch Changes
+
+- consolidate dependencies
+- Updated dependencies
+  - ctx-core@5.1.0
+
 ## 8.1.54
 
 ### Patch Changes

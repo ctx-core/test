@@ -1,4 +1,4 @@
-import { error_o__throw } from '@ctx-core/error'
+import { error_o__throw } from 'ctx-core/error'
 import equal from 'deep-equal'
 const tab = '	'
 /**
