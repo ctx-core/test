@@ -1,5 +1,11 @@
 # @ctx-core/test
 
+## 8.1.56
+
+### Patch Changes
+
+- tsx: ^4.6.2 -> ^4.7.0
+
 ## 8.1.55
 
 ### Patch Changes
