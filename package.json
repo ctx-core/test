@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/test",
-	"version": "8.1.108",
+	"version": "8.1.109",
 	"description": "ctx-core test",
 	"keywords": [
 		"ctx-core",
@@ -42,7 +42,7 @@
 		"test:unit:coverage": "c8 pnpm test:unit"
 	},
 	"dependencies": {
-		"ctx-core": "^5.28.1",
+		"ctx-core": "^5.29.0",
 		"deep-equal": "^2.2.3"
 	},
 	"devDependencies": {
