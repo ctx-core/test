@@ -1,5 +1,13 @@
 # @ctx-core/test
 
+## 8.1.135
+
+### Patch Changes
+
+- ctx-core: ^6.1.3 -> ^6.2.0
+- Updated dependencies
+  - ctx-core@6.2.1
+
 ## 8.1.134
 
 ### Patch Changes
