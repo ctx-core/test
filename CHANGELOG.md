@@ -1,5 +1,11 @@
 # @ctx-core/test
 
+## 8.1.197
+
+### Patch Changes
+
+- ctx-core: ^7.2.23 -> ^7.2.24
+
 ## 8.1.196
 
 ### Patch Changes
