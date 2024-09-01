@@ -1,5 +1,11 @@
 # @ctx-core/test
 
+## 8.1.205
+
+### Patch Changes
+
+- ctx-core: ^7.2.31 -> ^7.2.32
+
 ## 8.1.204
 
 ### Patch Changes
