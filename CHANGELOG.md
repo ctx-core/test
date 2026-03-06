@@ -1,5 +1,13 @@
 # @ctx-core/test
 
+## 8.1.207
+
+### Patch Changes
+
+- chore: migrate scripts from pnpm to bun
+- Updated dependencies
+  - ctx-core@7.2.34
+
 ## 8.1.206
 
 ### Patch Changes
